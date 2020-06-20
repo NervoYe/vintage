@@ -37,9 +37,6 @@
 
 <script>
 export default {
-  data: () => ({
-    title: ""
-  }),
   computed: {
     viberLink() {
       if (
